@@ -5,6 +5,10 @@ follow below innk:
 
 https://medium.com/gammadata/forseti-terraform-validator-enforcing-resource-policy-compliance-in-your-ci-pipeline-53ad71643ad5
 
+Clone forseti repo:
+
+git clone https://github.com/GoogleCloudPlatform/policy-library.git
+
 
 
 ===================
